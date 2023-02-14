@@ -1,0 +1,7 @@
+name: LucChien
+version: '${project.version}'
+main: me.ecomine.luchien.LucChien
+api-version: 1.19
+softdepend: [ MMOCore ]
+authors: [ PhongTN ]
+description: LucChien
